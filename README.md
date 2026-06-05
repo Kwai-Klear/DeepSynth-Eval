@@ -4,7 +4,7 @@
 
 **Hongzhi Zhang**<sup>†\*</sup>, **Yuanze Hu**<sup>‡\*</sup>, **Tinghai Zhang**<sup>†\*</sup>, **Jia Fu**<sup>†\*</sup>, **Tao Wang**<sup>†\*</sup>,
 <br>
-**Junwei Jing**<sup>†</sup>, **Zhaoxin Fan**<sup>‡</sup>, **Qi Wang**<sup>†</sup>, **Ruiming Tang**<sup>†✉</sup>, **Han Li**<sup>†</sup>, **Guorui Zhou**<sup>†</sup>, **Kun Gai**<sup>†</sup>
+**Junwei Jing**<sup>†</sup>, **Zhaoxin Fan**<sup>‡</sup>, **Wei Bi**<sup>†</sup>, **Ruiming Tang**<sup>†✉</sup>, **Han Li**<sup>†</sup>, **Guorui Zhou**<sup>†</sup>, **Kun Gai**<sup>†</sup>
 
 <sup>†</sup>Kuaishou Technology &nbsp;&nbsp; <sup>‡</sup>Beijing Advanced Innovation Center for Future Blockchain and Privacy Computing
 
